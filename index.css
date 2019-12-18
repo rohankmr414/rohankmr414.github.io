@@ -1,20 +1,20 @@
 * {
-    background-color: #eee;
+    background-color: rgb(243, 243, 243);
     padding: 0px;
     margin: 0px;
 }
 
 
 .name {
-    font-family: 'Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif';
-    font: 'Avantgarde';
+    font-family: 'Cutive', serif;
     font-size: 60px;
 }
 
 .profile_img {
-    margin: 40px 40px 20px 40px;
+    margin: 60px 40px 40px 40px;
     height: 220px;
     width: 220px;
+    box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19) !important;
 }
 
 
