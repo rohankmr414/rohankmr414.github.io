@@ -4,6 +4,10 @@
     margin: 0px;
 }
 
+.brand-logo {
+    height: 60px;
+    width: 70px;
+}
 
 .name {
     font-family: 'Cutive', serif;
@@ -14,13 +18,12 @@
     margin: 60px 40px 40px 40px;
     height: 220px;
     width: 220px;
-    box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
 }
 
 
 .icons {
     padding: 0px 20px 30px 20px;
-    color: rgb(0, 161, 108);
+    color: #009688;
 }
 
 h1 {
