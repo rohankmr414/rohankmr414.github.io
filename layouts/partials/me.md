@@ -4,7 +4,7 @@
     [Machaao Inc.](https://www.machaao.com/) - Remote \
     Jan 2022 - Present
 * **Full Stack Web Developer** \
-    [Desire Foundation](https://www.desirefoundation.org/) - Bhubaneshwar \
+    [Desire Foundation](https://www.desirefoundation.org/) - Remote \
     Aprile 2020 - Present
 
 # Projects
