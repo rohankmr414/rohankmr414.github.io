@@ -1,0 +1,33 @@
+baseURL = 'https://rohankumar.me/'
+languageCode = 'en-us'
+title = 'Rohan Kumar'
+theme = 'archie'
+
+[params]
+	mode="light"
+	useCDN=false
+    subtitle="Hi, I'm Rohan."
+    customcss=["css/main.css"]
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/rohankmr414"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/rohankmr414/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/rohankmr414/"
+
+
+# Main menu Items
+
+[[menu.main]]
+name = "Resume"
+url = "/resume.pdf"
+weight = 1

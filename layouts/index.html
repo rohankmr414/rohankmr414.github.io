@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	{{ partial "header.html" . }}
+	<body>
+		<div class="content">
+			{{ partial "head.html" . }}
+			<main>
+				{{ partial "about.md" . | markdownify }}
+				<br>
+				<br>
+				<a class="soc" href="https://github.com/rohankmr414" title="Github"><i data-feather="github"></i></a>|<a class="soc" href="https://twitter.com/rohankmr414" title="Twitter"><i data-feather="twitter"></i></a>|<a class="soc" href="https://linkedin.com/in/rohankmr414" title="Linkedin"><i data-feather="linkedin"></i></a>|<a class="soc" href="mailto:rohankmr414@gmail.com" title="Mail"><i data-feather="mail"></i></a>
+				{{ partial "me.md" . | markdownify }}
+			</main>
+			{{ partial "footer.html" . }}
+		</div>
+	</body>
+</html>
