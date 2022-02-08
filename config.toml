@@ -3,8 +3,13 @@ languageCode = 'en-us'
 title = 'Rohan Kumar'
 theme = 'archie'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
-	mode="light"
+	mode="toggle"
 	useCDN=false
     subtitle="Hi, I'm Rohan."
     customcss=["css/main.css"]
