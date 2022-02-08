@@ -1,6 +1,6 @@
 # Experiences
 
-* **DevOps Internship** \
+* **DevOps Intern** \
     [Machaao Inc.](https://www.machaao.com/) - Remote \
     Jan 2022 - Present
 * **Full Stack Web Developer** \
