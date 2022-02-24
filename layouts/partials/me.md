@@ -5,7 +5,7 @@
     Jan 2022 - Present
 * **Full Stack Web Developer** \
     <a href="https://desirefoundation.org" target="_blank">Desire Foundation</a> - Remote \
-    Aprile 2020 - Present
+    April 2020 - Present
 
 # Projects
 
