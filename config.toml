@@ -1,34 +1,34 @@
 baseURL = 'https://rohankumar.me/'
 languageCode = 'en-us'
-title = 'Rohan Kumar'
+publishDir = 'docs'
 theme = 'archie'
+title = 'Rohan Kumar'
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
-	mode="toggle"
-	useCDN=false
-    subtitle="Hi, I'm Rohan."
-    customcss=["css/main.css"]
+customcss = ["css/main.css"]
+mode = "toggle"
+subtitle = "Hi, I'm Rohan."
+useCDN = false
 
 [[params.social]]
-name = "GitHub"
 icon = "github"
+name = "GitHub"
 url = "https://github.com/rohankmr414"
 
 [[params.social]]
-name = "Twitter"
 icon = "twitter"
+name = "Twitter"
 url = "https://twitter.com/rohankmr414/"
 
 [[params.social]]
-name = "LinkedIn"
 icon = "linkedin"
+name = "LinkedIn"
 url = "https://linkedin.com/in/rohankmr414/"
-
 
 # Main menu Items
 
