@@ -2,7 +2,7 @@
 
 * **DevOps Intern** \
     <a href="https://machaao.com" target="_blank">Machaao Inc</a> - Remote \
-    Jan 2022 - Present
+    Jan 2022 - March 2022
 * **Full Stack Web Developer** \
     <a href="https://desirefoundation.org" target="_blank">Desire Foundation</a> - Remote \
     April 2020 - Present
@@ -23,6 +23,6 @@ Here are some of the key projects I have worked on in the past few months
 
 # Skills and Interests
 
-* **Languages:** Python, Javascript, Golang, C/C++
+* **Languages:** Python, Golang, Javascript, C/C++
 * **Frameworks:** React, Node.js, Typescript, Echo, GraphQL
 * **Other:** Git, Linux, CI/CD, Docker, Kubernetes    
