@@ -1,11 +1,11 @@
 # Experiences
 
-* **DevOps Intern** \
-    <a href="https://machaao.com" target="_blank">Machaao Inc</a> - Remote \
-    Jan 2022 - March 2022
-* **Full Stack Web Developer** \
+* **Backend Engineering Intern** \
+    <a href="https://devfolio.co" target="_blank">Devfolio</a> - Remote \
+    June 2022 - Present
+* **Full Stack Developer** \
     <a href="https://desirefoundation.org" target="_blank">Desire Foundation</a> - Remote \
-    April 2020 - Present
+    April 2020 - April 2022
 
 # Projects
 
