@@ -11,7 +11,7 @@ disableKinds = ['taxonomy']
 theme = 'light'
 
 # Intro on main page, content in markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = 'Hey 👋'
 homeIntroContent = """
 This is my personal blog where I write about my work, thoughts and experiences.
 
