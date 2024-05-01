@@ -1,7 +1,7 @@
 baseURL = 'https://rohan.foo/'
 languageCode = 'en-us'
 title = 'Rohan Kumar'
-theme = 'Typo'
+theme = 'typo'
 
 # Disable tags
 disableKinds = ['taxonomy']
@@ -11,7 +11,7 @@ googleAnalytics = "G-1EM39PGLW2"
 
 [params]
 # Appearance settings
-theme = 'light'
+theme = 'auto'
 
 # Intro on main page, content in markdown
 homeIntroTitle = 'Hi!'
