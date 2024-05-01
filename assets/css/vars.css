@@ -57,13 +57,13 @@
 @media screen and (max-width: 1024px) {
     :root {
         --main-width: 750px;
-        --header-top-gap: 1rem;
+        --header-top-gap: 2rem;
     }
 }
 
 @media screen and (max-width: 640px) {
     :root {
-        --header-top-gap: 1rem;
+        --header-top-gap: 2rem;
         --social-icons-bottom-margin: 0rem;
     }
 }
