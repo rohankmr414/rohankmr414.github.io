@@ -1,0 +1,88 @@
+baseURL = 'https://rohan.foo/'
+languageCode = 'en-us'
+title = 'Rohan Kumar'
+theme = 'Typo'
+
+# Disable tags
+disableKinds = ['taxonomy']
+
+# Google analytics code
+googleAnalytics = "G-1EM39PGLW2"
+
+[params]
+# Appearance settings
+theme = 'light'
+
+# Intro on main page, content in markdown
+homeIntroTitle = 'Hi!'
+homeIntroContent = """
+This is my personal blog where I write about my work, thoughts and experiences.
+
+I'm currently working at [Hasura](https://hasura.io/) in the SRE team.
+
+Outside work I enjoy reading, cycling, music and video games.
+"""
+
+# Collection to display on home
+# homeCollectionTitle = 'Posts'
+# homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = false
+listDateFormat = '2 Jan 2006'
+
+# Social icons
+# [[params.social]]
+# name = "email"
+# url = "mailto:rohankmr414@gmail.com"
+
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/rohankmr414"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/rohankmr414/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/rohankmr414"
+
+[[params.social]]
+name = "strava"
+url = "https://www.strava.com/athletes/110225284"
+
+[[params.social]]
+name = "steam"
+url = "https://steamcommunity.com/id/po1ntdexter/"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "talks"
+url = "/talks"
+
+[[params.menu]]
+name = "work"
+url = "/work"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Deploy settings
+
+[[deployment.matchers]]
+pattern = "^.+\\.(js|css|svg|ttf|woff2)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg|gif|webp)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
