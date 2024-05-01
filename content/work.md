@@ -19,7 +19,7 @@ I joined the platform team at DeepSource where I was responsible for building an
 
 [Devfolio](https://devfolio.co) is a platform for hosting hackathons and building developer communities.
 
-Joined as an intern to being the sole person responsible for the infrastructure. I've worked on various parts of the platform including the core infrastructure, backend, and product features.
+Joined as an intern and eventually became the sole person responsible for the infrastructure. I’ve worked on various parts of the platform, including the core infrastructure, backend, and product features.
 
 
 ---
