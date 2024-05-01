@@ -11,7 +11,7 @@ googleAnalytics = "G-1EM39PGLW2"
 
 [params]
 # Appearance settings
-theme = 'auto'
+theme = 'light'
 
 # Intro on main page, content in markdown
 homeIntroTitle = 'Hi!'
