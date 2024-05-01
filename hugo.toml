@@ -6,9 +6,6 @@ theme = 'typo'
 # Disable tags
 disableKinds = ['taxonomy']
 
-# Google analytics code
-googleAnalytics = "G-1EM39PGLW2"
-
 [params]
 # Appearance settings
 theme = 'light'
