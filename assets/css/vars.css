@@ -43,15 +43,15 @@
     --content-height: calc(100vh - var(--footer-height));
 
     /* Theme */
-    --content: #3c3836;
-    --background: #f8f6e3;
-    --code-background: #fbf1c7;
+    --content: rgb(16, 15, 15);
+    --background: rgb(255, 252, 240);
+    --code-background: rgb(242, 240, 229);
 }
 
 .dark {
-    --content: #ebdbb2;
-    --background: #282828;
-    --code-background: #3c3836;
+    --content: rgb(206, 205, 195);
+    --background: rgb(16, 15, 15);
+    --code-background: rgb(28, 27, 26);
 }
 
 @media screen and (max-width: 1024px) {
