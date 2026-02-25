@@ -15,7 +15,7 @@ homeIntroTitle = 'Hey 👋'
 homeIntroContent = """
 This is my personal blog where I write about my work, thoughts and experiences.
 
-I'm currently working at [Hasura](https://hasura.io/) in the SRE team.
+I'm currently working at [PromptQL](https://promptql.io/) in the platform team.
 
 Outside work I enjoy reading, cycling, music and video games.
 """

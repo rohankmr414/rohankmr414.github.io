@@ -1,19 +1,18 @@
 # Work
 
-Companies I've worked for
+Companies I’ve worked for
 
-## Hasura
+## PromptQL (Previously Hasura)
 
-[Hasura](https://hasura.io) gives you instant GraphQL and REST APIs on multiple data sources.
+[PromptQL](https://promptql.io) is an AI analyst platform that connects to your data wherever it lives, captures your team's shared context, and writes code to get you answers.
 
-Currently working at Hasura as a Site Reliability Engineer. I'm responsible for the reliability and scalability of the Hasura Cloud platform. I work on building and maintaining the cloud infrastructure, monitoring and observability systems, and incident response.
-
+Currently working at PromptQL as a Software Engineer. I work on building and maintaining multi-cloud infrastructure, platform reliability, cost optimization, and on-call operations.
 
 ## DeepSource
 
-[DeepSource](https://deepsource.io) is a code health platform that helps developers ship good code.
+[DeepSource](https://deepsource.com) is a code health platform that helps developers ship good code.
 
-I joined the platform team at DeepSource where I was responsible for building and maintaining the cloud infrastructure and enterprise products. We were also responsible for the reliability and scalability of the platform.
+I joined the platform team at DeepSource where I was responsible for building and maintaining cloud infrastructure, enterprise on-prem products, monitoring and alerting systems, and on-call operations.
 
 ## Devfolio
 
