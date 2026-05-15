@@ -54,6 +54,10 @@ url = "https://www.strava.com/athletes/110225284"
 name = "steam"
 url = "https://steamcommunity.com/id/po1ntdexter/"
 
+[[params.social]]
+name = "discogs"
+url = "https://www.discogs.com/user/rohankmr414/"
+
 # Main menu pages
 [[params.menu]]
 name = "home"
